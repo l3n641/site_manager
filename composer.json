@@ -1,0 +1,17 @@
+{
+  "name": "administrator/site_manager",
+  "description": "wordpress helper",
+  "type": "project",
+  "authors": [
+    {
+      "name": "l3n641",
+      "email": "371522155@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "command\\": "command/"
+    }
+  }
+}
